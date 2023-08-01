@@ -7,7 +7,7 @@
 
 </a>
 
-EXCLUDED_LANGS=cpp,c++,javascript,js,JavaScript,CSS
+EXCLUDED_LANGS=cpp,c++,javascript,js,JavaScript,CSS,C%2B%2B
 
 Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
